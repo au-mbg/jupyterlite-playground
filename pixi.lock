@@ -162,16 +162,12 @@ environments:
       - pypi: https://files.pythonhosted.org/packages/c6/bb/2f9b425062416fba58f580c9b89c3b07277ccdf0a292501fedbca8ea00ea/jupyterlab-4.5.9-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/cc/3a/510ad9ee10be5b22e0ecac42ab760c65c94a765aed3c61a05dc5a3f63ef4/jupyterlab_fasta-3.3.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/7c/6d/113e7d1fd8deedda14fc1a3ad3ad8e98a73dc72b7e6d2cafe032c1c16521/jupyterlab_geojson-3.4.0-py3-none-any.whl
-      - pypi: https://files.pythonhosted.org/packages/79/d2/b42fe09ae8001aa0ac56cdba19dafb25bbd44567b04361f6dcccf9055b39/jupyterlab_language_pack_fr_fr-4.5.post3-py2.py3-none-any.whl
-      - pypi: https://files.pythonhosted.org/packages/a9/6e/6fc9da7a86bd9815e2d912e0f0d69ae4130d5dcfdd699e86c193e1958d8b/jupyterlab_language_pack_zh_cn-4.5.post3-py2.py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/42/6c/be6ad7bbfbfc2516e15e9a671833b6be0570c8edbc02608d7018fac01f2b/jupyterlab_miami_nights-0.4.3-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/5d/0d/dc7de6951c3b08cf3f4a4c57e1780ecdd2431181c8024b316a63cc99321b/jupyterlab_night-0.5.2-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/b1/dd/ead9d8ea85bf202d90cc513b533f9c363121c7792674f78e0d8a854b63b4/jupyterlab_pygments-0.3.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/e0/07/a000fe835f76b7e1143242ab1122e6362ef1c03f23f83a045c38859c2ae0/jupyterlab_server-2.28.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/ab/b5/36c712098e6191d1b4e349304ef73a8d06aed77e56ceaac8c0a306c7bda1/jupyterlab_widgets-3.0.16-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/5b/01/faee5289868a295955fd24ea92210dfad30e480b149debe2b50f26e4d5fc/jupyterlite_core-0.7.1-py3-none-any.whl
-      - pypi: https://files.pythonhosted.org/packages/68/23/c09a3dd650daa61fac75fb1e05f224df3b797972d761d3317c1bd03b10ba/jupyterlite_javascript_kernel-0.3.0-py3-none-any.whl
-      - pypi: https://files.pythonhosted.org/packages/5e/91/9de14210b8fe6c5a69bef8a27d6ebf3daef189d8df0251962ed69a9b401b/jupyterlite_p5_kernel-0.1.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/a4/36/495b6357560f6b680fa4ffcefb85e646594ff29c6cb182028569847de156/jupyterlite_pyodide_kernel-0.7.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/80/46/bddc13df6c2a40741e0cc7865bb1c9ed4796b6760bd04ce5fae3928ef917/kiwisolver-1.5.0-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.whl
       - pypi: https://files.pythonhosted.org/packages/82/3d/14ce75ef66813643812f3093ab17e46d3a206942ce7376d31ec2d36229e7/lark-1.3.1-py3-none-any.whl
@@ -307,16 +303,12 @@ environments:
       - pypi: https://files.pythonhosted.org/packages/c6/bb/2f9b425062416fba58f580c9b89c3b07277ccdf0a292501fedbca8ea00ea/jupyterlab-4.5.9-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/cc/3a/510ad9ee10be5b22e0ecac42ab760c65c94a765aed3c61a05dc5a3f63ef4/jupyterlab_fasta-3.3.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/7c/6d/113e7d1fd8deedda14fc1a3ad3ad8e98a73dc72b7e6d2cafe032c1c16521/jupyterlab_geojson-3.4.0-py3-none-any.whl
-      - pypi: https://files.pythonhosted.org/packages/79/d2/b42fe09ae8001aa0ac56cdba19dafb25bbd44567b04361f6dcccf9055b39/jupyterlab_language_pack_fr_fr-4.5.post3-py2.py3-none-any.whl
-      - pypi: https://files.pythonhosted.org/packages/a9/6e/6fc9da7a86bd9815e2d912e0f0d69ae4130d5dcfdd699e86c193e1958d8b/jupyterlab_language_pack_zh_cn-4.5.post3-py2.py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/42/6c/be6ad7bbfbfc2516e15e9a671833b6be0570c8edbc02608d7018fac01f2b/jupyterlab_miami_nights-0.4.3-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/5d/0d/dc7de6951c3b08cf3f4a4c57e1780ecdd2431181c8024b316a63cc99321b/jupyterlab_night-0.5.2-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/b1/dd/ead9d8ea85bf202d90cc513b533f9c363121c7792674f78e0d8a854b63b4/jupyterlab_pygments-0.3.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/e0/07/a000fe835f76b7e1143242ab1122e6362ef1c03f23f83a045c38859c2ae0/jupyterlab_server-2.28.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/ab/b5/36c712098e6191d1b4e349304ef73a8d06aed77e56ceaac8c0a306c7bda1/jupyterlab_widgets-3.0.16-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/5b/01/faee5289868a295955fd24ea92210dfad30e480b149debe2b50f26e4d5fc/jupyterlite_core-0.7.1-py3-none-any.whl
-      - pypi: https://files.pythonhosted.org/packages/68/23/c09a3dd650daa61fac75fb1e05f224df3b797972d761d3317c1bd03b10ba/jupyterlite_javascript_kernel-0.3.0-py3-none-any.whl
-      - pypi: https://files.pythonhosted.org/packages/5e/91/9de14210b8fe6c5a69bef8a27d6ebf3daef189d8df0251962ed69a9b401b/jupyterlite_p5_kernel-0.1.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/a4/36/495b6357560f6b680fa4ffcefb85e646594ff29c6cb182028569847de156/jupyterlite_pyodide_kernel-0.7.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/11/60/37b4047a2af0cf5ef6d8b4b26e91829ae6fc6a2d1f74524bcb0e7cd28a32/kiwisolver-1.5.0-cp311-cp311-macosx_10_9_x86_64.whl
       - pypi: https://files.pythonhosted.org/packages/82/3d/14ce75ef66813643812f3093ab17e46d3a206942ce7376d31ec2d36229e7/lark-1.3.1-py3-none-any.whl
@@ -452,16 +444,12 @@ environments:
       - pypi: https://files.pythonhosted.org/packages/c6/bb/2f9b425062416fba58f580c9b89c3b07277ccdf0a292501fedbca8ea00ea/jupyterlab-4.5.9-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/cc/3a/510ad9ee10be5b22e0ecac42ab760c65c94a765aed3c61a05dc5a3f63ef4/jupyterlab_fasta-3.3.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/7c/6d/113e7d1fd8deedda14fc1a3ad3ad8e98a73dc72b7e6d2cafe032c1c16521/jupyterlab_geojson-3.4.0-py3-none-any.whl
-      - pypi: https://files.pythonhosted.org/packages/79/d2/b42fe09ae8001aa0ac56cdba19dafb25bbd44567b04361f6dcccf9055b39/jupyterlab_language_pack_fr_fr-4.5.post3-py2.py3-none-any.whl
-      - pypi: https://files.pythonhosted.org/packages/a9/6e/6fc9da7a86bd9815e2d912e0f0d69ae4130d5dcfdd699e86c193e1958d8b/jupyterlab_language_pack_zh_cn-4.5.post3-py2.py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/42/6c/be6ad7bbfbfc2516e15e9a671833b6be0570c8edbc02608d7018fac01f2b/jupyterlab_miami_nights-0.4.3-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/5d/0d/dc7de6951c3b08cf3f4a4c57e1780ecdd2431181c8024b316a63cc99321b/jupyterlab_night-0.5.2-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/b1/dd/ead9d8ea85bf202d90cc513b533f9c363121c7792674f78e0d8a854b63b4/jupyterlab_pygments-0.3.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/e0/07/a000fe835f76b7e1143242ab1122e6362ef1c03f23f83a045c38859c2ae0/jupyterlab_server-2.28.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/ab/b5/36c712098e6191d1b4e349304ef73a8d06aed77e56ceaac8c0a306c7bda1/jupyterlab_widgets-3.0.16-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/5b/01/faee5289868a295955fd24ea92210dfad30e480b149debe2b50f26e4d5fc/jupyterlite_core-0.7.1-py3-none-any.whl
-      - pypi: https://files.pythonhosted.org/packages/68/23/c09a3dd650daa61fac75fb1e05f224df3b797972d761d3317c1bd03b10ba/jupyterlite_javascript_kernel-0.3.0-py3-none-any.whl
-      - pypi: https://files.pythonhosted.org/packages/5e/91/9de14210b8fe6c5a69bef8a27d6ebf3daef189d8df0251962ed69a9b401b/jupyterlite_p5_kernel-0.1.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/a4/36/495b6357560f6b680fa4ffcefb85e646594ff29c6cb182028569847de156/jupyterlite_pyodide_kernel-0.7.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/0a/aa/510dc933d87767584abfe03efa445889996c70c2990f6f87c3ebaa0a18c5/kiwisolver-1.5.0-cp311-cp311-macosx_11_0_arm64.whl
       - pypi: https://files.pythonhosted.org/packages/82/3d/14ce75ef66813643812f3093ab17e46d3a206942ce7376d31ec2d36229e7/lark-1.3.1-py3-none-any.whl
@@ -598,16 +586,12 @@ environments:
       - pypi: https://files.pythonhosted.org/packages/c6/bb/2f9b425062416fba58f580c9b89c3b07277ccdf0a292501fedbca8ea00ea/jupyterlab-4.5.9-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/cc/3a/510ad9ee10be5b22e0ecac42ab760c65c94a765aed3c61a05dc5a3f63ef4/jupyterlab_fasta-3.3.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/7c/6d/113e7d1fd8deedda14fc1a3ad3ad8e98a73dc72b7e6d2cafe032c1c16521/jupyterlab_geojson-3.4.0-py3-none-any.whl
-      - pypi: https://files.pythonhosted.org/packages/79/d2/b42fe09ae8001aa0ac56cdba19dafb25bbd44567b04361f6dcccf9055b39/jupyterlab_language_pack_fr_fr-4.5.post3-py2.py3-none-any.whl
-      - pypi: https://files.pythonhosted.org/packages/a9/6e/6fc9da7a86bd9815e2d912e0f0d69ae4130d5dcfdd699e86c193e1958d8b/jupyterlab_language_pack_zh_cn-4.5.post3-py2.py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/42/6c/be6ad7bbfbfc2516e15e9a671833b6be0570c8edbc02608d7018fac01f2b/jupyterlab_miami_nights-0.4.3-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/5d/0d/dc7de6951c3b08cf3f4a4c57e1780ecdd2431181c8024b316a63cc99321b/jupyterlab_night-0.5.2-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/b1/dd/ead9d8ea85bf202d90cc513b533f9c363121c7792674f78e0d8a854b63b4/jupyterlab_pygments-0.3.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/e0/07/a000fe835f76b7e1143242ab1122e6362ef1c03f23f83a045c38859c2ae0/jupyterlab_server-2.28.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/ab/b5/36c712098e6191d1b4e349304ef73a8d06aed77e56ceaac8c0a306c7bda1/jupyterlab_widgets-3.0.16-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/5b/01/faee5289868a295955fd24ea92210dfad30e480b149debe2b50f26e4d5fc/jupyterlite_core-0.7.1-py3-none-any.whl
-      - pypi: https://files.pythonhosted.org/packages/68/23/c09a3dd650daa61fac75fb1e05f224df3b797972d761d3317c1bd03b10ba/jupyterlite_javascript_kernel-0.3.0-py3-none-any.whl
-      - pypi: https://files.pythonhosted.org/packages/5e/91/9de14210b8fe6c5a69bef8a27d6ebf3daef189d8df0251962ed69a9b401b/jupyterlite_p5_kernel-0.1.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/a4/36/495b6357560f6b680fa4ffcefb85e646594ff29c6cb182028569847de156/jupyterlite_pyodide_kernel-0.7.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/be/6c/28f17390b62b8f2f520e2915095b3c94d88681ecf0041e75389d9667f202/kiwisolver-1.5.0-cp311-cp311-win_amd64.whl
       - pypi: https://files.pythonhosted.org/packages/82/3d/14ce75ef66813643812f3093ab17e46d3a206942ce7376d31ec2d36229e7/lark-1.3.1-py3-none-any.whl
@@ -1843,14 +1827,6 @@ packages:
   version: 3.4.0
   sha256: 56d9bed9253d0a3b4c6e5ae8ac0685039bfb43775cd356e4979bdf147e89dfc5
   requires_python: '>=3.8'
-- pypi: https://files.pythonhosted.org/packages/79/d2/b42fe09ae8001aa0ac56cdba19dafb25bbd44567b04361f6dcccf9055b39/jupyterlab_language_pack_fr_fr-4.5.post3-py2.py3-none-any.whl
-  name: jupyterlab-language-pack-fr-fr
-  version: 4.5.post3
-  sha256: 9f6ce9d4e64b367ff084a2313af29d6ad8a02d1d08000f3e6c53e2856fa9a11f
-- pypi: https://files.pythonhosted.org/packages/a9/6e/6fc9da7a86bd9815e2d912e0f0d69ae4130d5dcfdd699e86c193e1958d8b/jupyterlab_language_pack_zh_cn-4.5.post3-py2.py3-none-any.whl
-  name: jupyterlab-language-pack-zh-cn
-  version: 4.5.post3
-  sha256: 47cdb0c41c6b066e795c867786c9c29fde527e2bf15aa6b3e9b2bab9929304b5
 - pypi: https://files.pythonhosted.org/packages/42/6c/be6ad7bbfbfc2516e15e9a671833b6be0570c8edbc02608d7018fac01f2b/jupyterlab_miami_nights-0.4.3-py3-none-any.whl
   name: jupyterlab-miami-nights
   version: 0.4.3
@@ -1955,16 +1931,6 @@ packages:
   - pytest-xdist ; extra == 'test'
   - jupyterlab-server>=2.8.1,<3 ; extra == 'translation'
   requires_python: '>=3.10'
-- pypi: https://files.pythonhosted.org/packages/68/23/c09a3dd650daa61fac75fb1e05f224df3b797972d761d3317c1bd03b10ba/jupyterlite_javascript_kernel-0.3.0-py3-none-any.whl
-  name: jupyterlite-javascript-kernel
-  version: 0.3.0
-  sha256: 7753c172d3c8bd50d7e7c05d1b667c3fa5566f90d38bf1bdd160f9752e1746b7
-  requires_python: '>=3.8'
-- pypi: https://files.pythonhosted.org/packages/5e/91/9de14210b8fe6c5a69bef8a27d6ebf3daef189d8df0251962ed69a9b401b/jupyterlite_p5_kernel-0.1.0-py3-none-any.whl
-  name: jupyterlite-p5-kernel
-  version: 0.1.0
-  sha256: 82281dc6d1c172c303454341310509fd8a5051169ad51b9021c27a291c7c835e
-  requires_python: '>=3.7'
 - pypi: https://files.pythonhosted.org/packages/a4/36/495b6357560f6b680fa4ffcefb85e646594ff29c6cb182028569847de156/jupyterlite_pyodide_kernel-0.7.0-py3-none-any.whl
   name: jupyterlite-pyodide-kernel
   version: 0.7.0
