@@ -164,6 +164,7 @@ environments:
       - pypi: https://files.pythonhosted.org/packages/7c/6d/113e7d1fd8deedda14fc1a3ad3ad8e98a73dc72b7e6d2cafe032c1c16521/jupyterlab_geojson-3.4.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/42/6c/be6ad7bbfbfc2516e15e9a671833b6be0570c8edbc02608d7018fac01f2b/jupyterlab_miami_nights-0.4.3-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/5d/0d/dc7de6951c3b08cf3f4a4c57e1780ecdd2431181c8024b316a63cc99321b/jupyterlab_night-0.5.2-py3-none-any.whl
+      - pypi: https://files.pythonhosted.org/packages/85/f5/c4ec52cf51ebcde752be45f3057f559aeb59c71dff676f9b2c33f71b0971/jupyterlab_open_url_parameter-0.4.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/b1/dd/ead9d8ea85bf202d90cc513b533f9c363121c7792674f78e0d8a854b63b4/jupyterlab_pygments-0.3.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/e0/07/a000fe835f76b7e1143242ab1122e6362ef1c03f23f83a045c38859c2ae0/jupyterlab_server-2.28.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/ab/b5/36c712098e6191d1b4e349304ef73a8d06aed77e56ceaac8c0a306c7bda1/jupyterlab_widgets-3.0.16-py3-none-any.whl
@@ -305,6 +306,7 @@ environments:
       - pypi: https://files.pythonhosted.org/packages/7c/6d/113e7d1fd8deedda14fc1a3ad3ad8e98a73dc72b7e6d2cafe032c1c16521/jupyterlab_geojson-3.4.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/42/6c/be6ad7bbfbfc2516e15e9a671833b6be0570c8edbc02608d7018fac01f2b/jupyterlab_miami_nights-0.4.3-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/5d/0d/dc7de6951c3b08cf3f4a4c57e1780ecdd2431181c8024b316a63cc99321b/jupyterlab_night-0.5.2-py3-none-any.whl
+      - pypi: https://files.pythonhosted.org/packages/85/f5/c4ec52cf51ebcde752be45f3057f559aeb59c71dff676f9b2c33f71b0971/jupyterlab_open_url_parameter-0.4.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/b1/dd/ead9d8ea85bf202d90cc513b533f9c363121c7792674f78e0d8a854b63b4/jupyterlab_pygments-0.3.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/e0/07/a000fe835f76b7e1143242ab1122e6362ef1c03f23f83a045c38859c2ae0/jupyterlab_server-2.28.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/ab/b5/36c712098e6191d1b4e349304ef73a8d06aed77e56ceaac8c0a306c7bda1/jupyterlab_widgets-3.0.16-py3-none-any.whl
@@ -446,6 +448,7 @@ environments:
       - pypi: https://files.pythonhosted.org/packages/7c/6d/113e7d1fd8deedda14fc1a3ad3ad8e98a73dc72b7e6d2cafe032c1c16521/jupyterlab_geojson-3.4.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/42/6c/be6ad7bbfbfc2516e15e9a671833b6be0570c8edbc02608d7018fac01f2b/jupyterlab_miami_nights-0.4.3-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/5d/0d/dc7de6951c3b08cf3f4a4c57e1780ecdd2431181c8024b316a63cc99321b/jupyterlab_night-0.5.2-py3-none-any.whl
+      - pypi: https://files.pythonhosted.org/packages/85/f5/c4ec52cf51ebcde752be45f3057f559aeb59c71dff676f9b2c33f71b0971/jupyterlab_open_url_parameter-0.4.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/b1/dd/ead9d8ea85bf202d90cc513b533f9c363121c7792674f78e0d8a854b63b4/jupyterlab_pygments-0.3.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/e0/07/a000fe835f76b7e1143242ab1122e6362ef1c03f23f83a045c38859c2ae0/jupyterlab_server-2.28.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/ab/b5/36c712098e6191d1b4e349304ef73a8d06aed77e56ceaac8c0a306c7bda1/jupyterlab_widgets-3.0.16-py3-none-any.whl
@@ -588,6 +591,7 @@ environments:
       - pypi: https://files.pythonhosted.org/packages/7c/6d/113e7d1fd8deedda14fc1a3ad3ad8e98a73dc72b7e6d2cafe032c1c16521/jupyterlab_geojson-3.4.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/42/6c/be6ad7bbfbfc2516e15e9a671833b6be0570c8edbc02608d7018fac01f2b/jupyterlab_miami_nights-0.4.3-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/5d/0d/dc7de6951c3b08cf3f4a4c57e1780ecdd2431181c8024b316a63cc99321b/jupyterlab_night-0.5.2-py3-none-any.whl
+      - pypi: https://files.pythonhosted.org/packages/85/f5/c4ec52cf51ebcde752be45f3057f559aeb59c71dff676f9b2c33f71b0971/jupyterlab_open_url_parameter-0.4.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/b1/dd/ead9d8ea85bf202d90cc513b533f9c363121c7792674f78e0d8a854b63b4/jupyterlab_pygments-0.3.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/e0/07/a000fe835f76b7e1143242ab1122e6362ef1c03f23f83a045c38859c2ae0/jupyterlab_server-2.28.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/ab/b5/36c712098e6191d1b4e349304ef73a8d06aed77e56ceaac8c0a306c7bda1/jupyterlab_widgets-3.0.16-py3-none-any.whl
@@ -1852,6 +1856,11 @@ packages:
   name: jupyterlab-night
   version: 0.5.2
   sha256: 0da536f614954590d528314573036c1f3b641f69dcf1bcdd532e9ef86734845e
+  requires_python: '>=3.8'
+- pypi: https://files.pythonhosted.org/packages/85/f5/c4ec52cf51ebcde752be45f3057f559aeb59c71dff676f9b2c33f71b0971/jupyterlab_open_url_parameter-0.4.0-py3-none-any.whl
+  name: jupyterlab-open-url-parameter
+  version: 0.4.0
+  sha256: 24b1bcf62ec2b6924c3d0d52eef6d3ac4e818a472e145f7b780a8876aca4846c
   requires_python: '>=3.8'
 - pypi: https://files.pythonhosted.org/packages/b1/dd/ead9d8ea85bf202d90cc513b533f9c363121c7792674f78e0d8a854b63b4/jupyterlab_pygments-0.3.0-py3-none-any.whl
   name: jupyterlab-pygments
