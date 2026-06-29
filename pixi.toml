@@ -19,7 +19,7 @@ jupyterlab-fasta = ">=3.3.0, <4"
 jupyterlab-geojson = ">=3.4.0, <4"
 jupyterlab-night = "*"
 jupyterlab-miami-nights = "*"
-jupyterlab-open-url-parameter = "*"
+jupyterlab-open-url-parameter = "==0.4.0"
 ipywidgets = ">=8.1.3, <9"
 ipyevents = ">=2.0.1"
 ipympl = ">=0.8.2"
@@ -27,9 +27,12 @@ ipycanvas = ">=0.9.1"
 ipyleaflet = "*"
 plotly = ">=6, <7"
 bqplot = "*"
+anywidget = ">=0.11.0, <0.12"
 
 [environments]
 jupyterlite = { features = ["jupyterlite"] }
+
+[pypi-dependencies]
 
 [tasks.build]
 cmd = "jupyter lite build --contents content --output-dir dist"
