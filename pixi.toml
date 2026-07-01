@@ -35,6 +35,7 @@ jupyterlab-night = "*"
 jupyterlab-miami-nights = "*"
 jupyterlab-open-url-parameter = "==0.4.0"
 jupyterlite-pdf-exporter = ">=0.3.0"
+jupyterlab-filesystem-access = "*"
 
 [environments]
 jupyterlite = { features = ["jupyterlite", "basic"] }
