@@ -6,7 +6,6 @@
   "jupyterlite-pdf-exporter:plugin": {
     "pageSize": "a4",
     "tableOfContents": true,
-    "numberSections": true
   }
 
 }
