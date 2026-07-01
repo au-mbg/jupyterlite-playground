@@ -24,8 +24,6 @@ matplotlib = ">=3.11.0, <4"
 scipy = ">=1.17.1, <2"
 pandas = ">=3.0.4, <4"
 
-
-
 [feature.jupyterlite.pypi-dependencies]
 jupyterlite-core = "==0.7.1"
 jupyterlab = "~=4.5.1"
@@ -46,3 +44,4 @@ jupyterlite = { features = ["jupyterlite", "basic"] }
 [tasks.build]
 cmd = "jupyter lite build --contents content --output-dir dist"
 default-environment = "jupyterlite"
+cwd = "lite-dir"
